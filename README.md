@@ -31,4 +31,4 @@ https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 
 ## My Certificate of Completion
-JPMorgan-Virtual-Internship-Certificate_page-0001.jpg
+![](https://github.com/nikunj-indoriya/JP-Morgan-Virtual-Internship/blob/3b7fbd652a4bcf4e3525d61a1c6b631950f1382e/JPMorgan-Virtual-Internship-Certificate_page-0001.jpg)
